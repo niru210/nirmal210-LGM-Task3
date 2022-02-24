@@ -1,3 +1,7 @@
+DEPLOYED APP:- https://nirmal210-lgm-task3-2wlpms79x-niru210.vercel.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
