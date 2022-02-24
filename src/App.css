@@ -1,0 +1,42 @@
+body {
+  background-color: white;
+  padding: 10px 50px;
+}
+form {
+  padding: 1rem;
+  border: 1px solid black;
+  width: 550px;
+  margin: 30px auto;
+  border-radius: 10px;
+  background-color: skyblue;
+}
+form div {
+  display: grid;
+  grid-template-columns: 30% 50%;
+  margin-bottom: 0.2rem;
+}
+button {
+  margin-right: 1rem;
+  padding: 0.2rem 0.5rem;
+}
+.Container {
+  padding: 1rem;
+  border: 1px solid black;
+  width: 550px;
+  margin: 30px auto;
+  border-radius: 10px;
+  background-color: skyblue;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+.Container .details {
+  text-align: left;
+}
+.userImg {
+  width: 180px;
+  border-radius: 1rem;
+}
+h1 {
+  text-align: center;
+}
